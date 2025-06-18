@@ -1,4 +1,1 @@
-🛠️ Third-year Engineering student at Kalinga Institute of Industrial Technology with a passion for cybersecurity. 
-Currently exploring network security and ethical hacking. 
-Aspiring to contribute to secure digital solutions. 
-Check out my repos for my latest projects and collaborations.
+Results-driven Computer Science Engineering undergraduate with demonstrated expertise in HTML, C/C++, SQL, Java, Python programming, and Linux system administration. I have contributed to multiple research projects resulting in published papers. Strong technical foundation in Software Engineering, Cybersecurity, Machine Learning and Artificial Intelligence. Possesses analytical problem-solving abilities, collaborative teamwork skills honed through active sports participation, and experience implementing full-stack solutions. Seeking opportunities to leverage programming proficiency and experience to deliver innovative technology solutions while expanding expertise in cutting-edge technologies.
